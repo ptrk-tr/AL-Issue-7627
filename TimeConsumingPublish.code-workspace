@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "App1"
+        },
+        {
+            "path": "App2"
+        }
+    ],
+    "settings": {
+        "al.assemblyProbingPaths": [
+            "C:\\Program Files\\Microsoft Dynamics 365 Business Central\\230\\Service"
+        ]
+    }
+}

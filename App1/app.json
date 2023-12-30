@@ -1,0 +1,33 @@
+{
+  "id": "cd5fcebd-d233-4ab1-91d1-09d289df3a23",
+  "name": "DotNet Declaration in large file",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "23.0.0.0",
+  "application": "23.1.0.0",
+  "target": "OnPrem",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50200
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

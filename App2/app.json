@@ -1,0 +1,33 @@
+{
+  "id": "6fb85134-b91e-4a4f-b556-529b09b3a845",
+  "name": "DotNet Declaration in seperate file",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "23.0.0.0",
+  "application": "23.1.0.0",
+  "target": "OnPrem",
+  "idRanges": [
+    {
+      "from": 50201,
+      "to": 50201
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
